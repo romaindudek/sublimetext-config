@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1Self",
+		"Color Highlighter",
+		"Color Scheme - Chromodynamics",
+		"CSS To SASS And Stylus Converter",
+		"Djaneiro",
+		"Django",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"Git",
+		"Gulp",
+		"HTML-CSS-JS Prettify",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"LiveReload",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"PHP Codebeautifier",
+		"rainbow_csv",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-pylint",
+		"Visual Studio Bold Color Scheme",
+		"Visual Studio Dark",
+		"VueFormatter",
+		"Vuejs Complete Package"
+	]
+}
