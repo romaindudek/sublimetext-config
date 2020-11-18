@@ -1,0 +1,67 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "Number Sequence (\\i)",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "Number Sequence (\\i)"
+			},
+			"key": "4269c19a69f215192283a0172df87c97",
+			"label": "Number Sequence (\\i)"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i(0,100)"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i(0,100)"
+			},
+			"key": "25ef78bb1aee478b531329e2fa3db786",
+			"label": "\\i(0,100)"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i(16,1)"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i(16,1)"
+			},
+			"key": "2b7dc4922fc716ffeb22eacd65673a26",
+			"label": "\\i(16,1)"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i(0,1)"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i(0,1)"
+			},
+			"key": "c9daeaadd476f4b89faad855783d2835",
+			"label": "\\i(0,1)"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "\\i(0,1)"
+		},
+		"command": "text_pastry_step",
+		"text": "\\i(0,1)"
+	}
+}
